@@ -9,4 +9,6 @@ Hi👋 I'm Jazmin. I'm 16 years old. I'd like to study something with technology
 
 ![Views](https://komarev.com/ghpvc/?username=Jazz-aii&abbreviated=true)
 
-![snake animation](https://github.com/Jazz-aii/Jazz-aii/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/Jazz-aii/Jazz-aii/blob/output/github-contribution-grid-snake.gif)
+
+
