@@ -21,7 +21,7 @@ Hi👋 I'm Jazmin. I'm 16 years old. I'd like to study something with technology
 
 I love play videogames, watch movies, animes, participate in extracurricular activities ⚡. Also, I'm a Stray Kids fan since 2021, it's my favorite k-pop group 💖.
 
- <img align="right" src="https://i.pinimg.com/originals/a8/38/83/a83883bc09c956f67033a83d1a1f1240.gif" alt="Loro Gif" width="250">
+ <img align="right" src="https://i.pinimg.com/originals/a8/38/83/a83883bc09c956f67033a83d1a1f1240.gif" alt="Loro Gif" width="220">
  
  ![20e92227c9b739044e377b3567cfdac0](https://github.com/user-attachments/assets/a4d81fcd-cbef-4b25-a0fa-ecdc351eb353)
  
