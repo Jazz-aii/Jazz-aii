@@ -17,7 +17,7 @@ Hi👋 I'm Jazmin. I'm 16 years old. I'd like to study something with technology
 ![Views](https://komarev.com/ghpvc/?username=Jazz-aii&abbreviated=true)
 
 
-### Some Fun Facts about me ![23152ad938857f99ee19485d608ef091 (1)](https://github.com/user-attachments/assets/b29f0147-cc3a-4885-916e-6703514071c7)
+## Some Fun Facts about me ![23152ad938857f99ee19485d608ef091 (1)](https://github.com/user-attachments/assets/b29f0147-cc3a-4885-916e-6703514071c7)
 
 I love play videogames, watch movies, animes, participate in extracurricular activities ⚡. Also, I'm a Stray Kids fan since 2021, it's my favorite k-pop group 💖.
 
