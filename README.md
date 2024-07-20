@@ -1,6 +1,7 @@
 ![banner (1)](https://github.com/user-attachments/assets/64d3accb-a1ec-4231-80d5-ced0b57b8d7f)
 
-
+<p align="center">
+  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wyx_jazz?igsh=MXBhMGQycm0yNjIxMg%3D%3D&utm_source=qr)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1106395698611638332)
 
@@ -20,10 +21,9 @@ Hi👋 I'm Jazmin. I'm 16 years old. I'd like to study something with technology
 
 I love play videogames, watch movies, animes, participate in extracurricular activities ⚡. Also, I'm a Stray Kids fan since 2021, it's my favorite k-pop group 💖.
 
-<p align="center">
-
-![20e92227c9b739044e377b3567cfdac0](https://github.com/user-attachments/assets/a4d81fcd-cbef-4b25-a0fa-ecdc351eb353)
-</p>
-
-<img src="https://raw.githubusercontent.com/Jazz-aii/Jaz-aii/output/snake.svg" alt="Snake animation" />
+ <img align="right" src="https://i.pinimg.com/originals/a8/38/83/a83883bc09c956f67033a83d1a1f1240.gif" alt="Loro Gif" width="250">
+ 
+ ![20e92227c9b739044e377b3567cfdac0](https://github.com/user-attachments/assets/a4d81fcd-cbef-4b25-a0fa-ecdc351eb353)
+ 
+<img src="https://raw.githubusercontent.com/Jazz-aii/Jazz-aii/output/snake.svg" alt="Snake animation" />
 
