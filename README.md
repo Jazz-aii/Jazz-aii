@@ -25,5 +25,5 @@ I love play videogames, watch movies, animes, participate in extracurricular act
 ![20e92227c9b739044e377b3567cfdac0](https://github.com/user-attachments/assets/a4d81fcd-cbef-4b25-a0fa-ecdc351eb353)
 </p>
 
-![snake gif](https://github.com/Jazz-aii/Jazz-aii/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/Jazz-aii/Jaz-aii/output/snake.svg" alt="Snake animation" />
 
